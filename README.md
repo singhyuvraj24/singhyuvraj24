@@ -1,7 +1,7 @@
 # Hi! I'm Yuvraj <img src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/Hi.gif" width="30">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuvrajsinghgmx/yuvrajsinghgmx/main/Resources/gita-quote.svg" alt="श्रीमद्भगवद्गीता २.४७" width="900">
+  <img src="[https://raw.githubusercontent.com/yuvrajsinghgmx/yuvrajsinghgmx/main/Resources/gita-quote.svg](https://raw.githubusercontent.com/yuvrajsinghgmx/yuvrajsinghgmx/main/Resources/gita-quote.svg)" alt="श्रीमद्भगवद्गीता २.४७" width="900">
 </p>
 
 <br>
