@@ -1,15 +1,12 @@
 # Hi! I'm Yuvraj <img src="https://github.com/yuvrajsinghgmx/yuvrajsinghgmx/blob/main/Resources/Hi.gif" width="30">
 
-<div align="center" style="background-color: #000000;  border-radius: 12px; padding: 24px; color: #f5f5f5;">
-  <blockquote style="margin: 0; border-left: 3px solid  #d4af37; padding-left: 18px;background-color: #000000; ">
-    <p style="font-size: 24px; line-height: 2.4;"><strong>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।<br>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</strong></p>
-    <sub style="color: #d4af37;">— श्रीमद्भगवद्गीता २.४७</sub>
-  </blockquote>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuvrajsinghgmx/yuvrajsinghgmx/main/Resources/gita-quote.svg" alt="श्रीमद्भगवद्गीता २.४७" width="900">
+</p>
 
 <br>
 <a href="https://yuvrajsinghgmx.github.io/">Visit My Website!</a>
-<p align="left" class="classy-sentence" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; color: #ffffff;"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
+<p align="left"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
 <!-- - Currently Learning App Development and DSA. -->
 - Proficent in Kotlin 😻, JetPack Compose ✈️, Python🐍 , Django ❤️‍🔥.
