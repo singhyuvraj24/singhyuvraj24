@@ -5,7 +5,7 @@
 </p>
 
 <br>
-<a href="https://yuvrajsinghgmx.github.io/">Visit My Website!</a>
+<a href="https:/singhyuvraj24.github.io/">Visit My Website!</a>
 <p align="left"><a href="mailto:yuvrajsinghgmx@gmail.com">Click here to fire off an email.</a> 🕊️</p>
 
 <!-- - Currently Learning App Development and DSA. -->
